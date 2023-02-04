@@ -1,6 +1,0 @@
-ISBN,Title,Publication Year,Language,Price
-9780394751723,The Catcher in the Rye,1951,English,9.99
-9780679783268,Moby-Dick,1851,English,12.99
-9780525507566,Norwegian Wood,1987,Japanese,13.99
-9780747532743,The Lion, the Witch and the Wardrobe,1950,English,8.99
-9780679446790,The Hitchhiker's Guide to the Galaxy,1979,English,9.99

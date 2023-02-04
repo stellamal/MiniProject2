@@ -1,6 +1,0 @@
-ID,name,country of headquarters
-1,Publisher A,United States
-2,Publisher B,United Kingdom
-3,Publisher C,France
-4,Publisher D,Germany
-5,Publisher E,Japan

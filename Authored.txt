@@ -1,0 +1,8 @@
+author_ID,book_ISBN,author_order,role
+1,9780394751723,1,Primary Author
+2,9780679783268,2,Co-Author
+3,9780525507566,3,Editor
+4,9780747532743,4,Contributing Author
+5,9780679446790,5,Illustrator
+
+

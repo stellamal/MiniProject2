@@ -1,6 +1,0 @@
-ID,full name,biological gender,nationality
-1,Jane Doe,Female,American
-2,John Smith,Male,British
-3,Emma Watson,Female,British
-4,J.K. Rowling,Female,British
-5,Stephen King,Male,American
